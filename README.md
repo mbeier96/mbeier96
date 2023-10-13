@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+I'm a Javascript enthusiast whose first love is mathematics. 
+I've been programming since I was 9 years old and probably will continue to do so until I am too old to do so!
+
+I am from Ohio, but I am currently in Texas, where I am studying at Coastal Bend College to be a genuine Computer Scientist.
 
 <!--
 **mbeier96/mbeier96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
