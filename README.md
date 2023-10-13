@@ -1,6 +1,6 @@
 ### Howdy 👋
 I'm a Javascript enthusiast whose first love is mathematics. 
-I've been programming since I was 9 years old and probably will continue to do so until I am too old to do so!
+I've been programming since I was 9 years old and probably will continue to do so as long as I am able to use a keyboard!
 
 I am from Ohio, but I am currently in Texas, where I am studying at Coastal Bend College to be a genuine Computer Scientist.
 
